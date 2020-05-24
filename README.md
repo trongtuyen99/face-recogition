@@ -1,7 +1,7 @@
 # face-recogition using CNN
 **nhận dạng khuôn mặt sử dụng cnn + opencv**
 ## dữ liệu:
-  - sử dụng bộ dữ liệu của 29 người nổi tiếng, mỗi người 45 ành
+  - sử dụng bộ dữ liệu của 21 người nổi tiếng, mỗi người 45 ảnh
   - augmentation sinh thêm ảnh: rotate, flip, add noise
 ## phương pháp:
   - sử dụng opencv detect khuôn mặt
@@ -16,5 +16,5 @@
   - pip install tensorflow opencv-python keras
 2. chạy trương trình:
   1. giải nén file model
-  2. cấu hình lại đường dẫn của các file .h5 và .json trong hàm main
+  2. cấu hình lại đường dẫn của các file _95.h5 và _95.json trong hàm main
   3. chạy hàm main để nhận dạng ảnh.
