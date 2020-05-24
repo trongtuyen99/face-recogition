@@ -7,7 +7,7 @@
   - sử dụng opencv detect khuôn mặt
   - sử dụng cnn nhận dạng khuôn mặt
     - độ chính xác trên tập train: 99%
-    - độ chính xác trên tập test: 91.74%
+    - độ chính xác trên tập test: 94.71%
 ## Chức năng:
   - nhận dạng khuôn mặt đầu vào là video quay bằng webcam / ảnh
 ## cài đặt:
